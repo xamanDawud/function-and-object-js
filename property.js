@@ -17,7 +17,7 @@ let student = {
     name: "Mccafee",
     address: "California",
     zipCode: "2250",
-    mobile: 0044854225,
+    mobile: 0044,
     department: "CSE",
 };
 
